@@ -2,4 +2,10 @@
     <string name="app_name">Condominio</string>
     <string name="action_settings">Settings</string>
     <string name="texto_convocatoria">Convocatorias</string>
+    <string name="hacer_convocatoria_asunto">Asunto</string>
+    <string name="hacer_convocatoria_condominio">Condominio</string>
+    <string name="hacer_convocatoria_ubicacion_interna">Ubicación interna</string>
+    <string name="hacer_convocatoria_fecha_inicial">Fecha de inicio</string>
+    <string name="hacer_convocatoria_ubicacion">Ubicación</string>
+    <string name="hacer_convocatoria_nueva_convocatoria">Nueva convocatoria</string>
 </resources>

@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".CrearConvocatoria"
+            android:label="@string/hacer_convocatoria_nueva_convocatoria"/>
+        <activity
             android:name=".Lobby"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
